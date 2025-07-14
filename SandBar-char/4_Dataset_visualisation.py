@@ -10,7 +10,7 @@ Visualisation of the csv (sandbar_data_{year}.csv) data generated in 2.Dataset_e
 The objective of this code is to visualise the crests with their transect number so it can be manually modified:
     1. Delete those points that you don't consider sandbars.
     2. Relable those points that have the wrong lable.
-After manual modification Section 3 "Visualisation of crests with lines between crests", should show clear straight lines representing the sandbar's crest
+After manual modification of sandbar_data_{year}.csv, Section 3 "Visualisation of crests with lines between crests", should show clear straight lines representing the sandbar's crest
 
 """
 

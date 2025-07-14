@@ -45,4 +45,4 @@ A visual reference is included in the repository under the image file **SandbarP
 
 ## Manual step required
 
-While sandbar detection and parameter computation are automated, manual adjustments are needed to verify and correct sandbar labels across years and profiles.
+While sandbar detection and parameter computation are automated, manual adjustments on the "sandbar_data_{year}.csv" (2_Dataset_extraction output) are needed to verify and correct sandbar labels across years and profiles.
