@@ -46,3 +46,7 @@ A visual reference is included in the repository under the image file **SandbarP
 ## Manual step required
 
 While sandbar detection and parameter computation are automated, manual adjustments on the "sandbar_data_{year}.csv" (2_Dataset_extraction output) are needed to verify and correct sandbar labels across years and profiles.
+
+## Ameland case-study analysis
+
+The Ameland folder contains six code files used to analyze various aspects of the sandbars at Ameland. These analyses were conducted as part of the MSc thesis "Nearshore Sandbar Morphodynamics of a Nourished Barrier Island Coast, Ameland" by Raquel González Fernández.
